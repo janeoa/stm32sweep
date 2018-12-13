@@ -18,6 +18,64 @@ Archive member included to satisfy reference by file (symbol)
                               main.o (nvic_enable_irq)
 ./libopencm3//lib/libopencm3_stm32f1.a(assert.o)
                               ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o) (cm3_assert_failed)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                              main.o (__aeabi_unwind_cpp_pr0)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (restore_core_regs)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (abort)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o) (memcpy)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o) (raise)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o) (_kill_r)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o) (_impure_ptr)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o) (_malloc_r)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o) (errno)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o) (_free_r)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o) (_getpid)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o) (_kill)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o) (_sbrk)
+/Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+errno               0x4               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
 
 Discarded input sections
 
@@ -38,10 +96,20 @@ Discarded input sections
  .group         0x0000000000000000        0xc main.o
  .group         0x0000000000000000        0xc main.o
  .group         0x0000000000000000        0xc main.o
+ .group         0x0000000000000000        0xc main.o
  .text          0x0000000000000000        0x0 main.o
  .data          0x0000000000000000        0x0 main.o
  .bss           0x0000000000000000        0x0 main.o
- .text.setPWM   0x0000000000000000       0x14 main.o
+ .ARM.extab.text.tim2_isr
+                0x0000000000000000        0x0 main.o
+ .text._Z6setPWMii
+                0x0000000000000000       0x14 main.o
+ .ARM.extab.text._Z6setPWMii
+                0x0000000000000000        0x0 main.o
+ .ARM.exidx.text._Z6setPWMii
+                0x0000000000000000        0x8 main.o
+ .ARM.extab.text.startup.main
+                0x0000000000000000        0x0 main.o
  .group         0x0000000000000000        0xc ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .group         0x0000000000000000        0xc ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .group         0x0000000000000000        0xc ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
@@ -64,15 +132,11 @@ Discarded input sections
                 0x0000000000000000       0x14 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .text.gpio_secondary_remap
                 0x0000000000000000       0x10 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000000000      0xa4e ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0x22 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000000000       0x56 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0x51 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0xef ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0x6a ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000      0x1df ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000000000       0x22 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000000000       0xfa ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0x58 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000       0x76 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
  .debug_macro   0x0000000000000000      0xdfd ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
@@ -549,6 +613,295 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x38 ./libopencm3//lib/libopencm3_stm32f1.a(assert.o)
  .ARM.attributes
                 0x0000000000000000       0x33 ./libopencm3//lib/libopencm3_stm32f1.a(assert.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.isra.0
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_24bit.isra.1
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_24bit.isra.1
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_24bit.isra.1
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000000000      0x2fc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x0000000000000000       0x1c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x0000000000000000       0x2c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x0000000000000000       0x14 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text._Unwind_GetDataRelBase
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetDataRelBase
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetDataRelBase
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text._Unwind_GetTextRelBase
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetTextRelBase
+                0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetTextRelBase
+                0x0000000000000000        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000000      0x104 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000000       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x1b /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text._init_signal_r.part.0
+                0x0000000000000000       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x38 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x54 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x18 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000000       0xe0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000000       0x3c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x524 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000000000000       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000000000000      0x408 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000000       0x4c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x88 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x68 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x24 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000000000       0xa0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .text._free_r  0x0000000000000000      0x1e8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000000       0x80 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ COMMON         0x0000000000000000       0x21 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .stab          0x0000000000000000       0x24 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .stab          0x0000000000000000       0x18 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+ .debug_frame   0x0000000000000000       0x20 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .text._sbrk    0x0000000000000000       0x1c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .bss.heap_end.4102
+                0x0000000000000000        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
 
 Memory Configuration
 
@@ -572,7 +925,7 @@ LOAD /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-
 LOAD /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
 END GROUP
 
-.text           0x0000000008000000      0x664
+.text           0x0000000008000000     0x16bc
  *(.vectors)
  .vectors       0x0000000008000000      0x150 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
                 0x0000000008000000                vector_table
@@ -761,60 +1114,232 @@ END GROUP
  .text.nvic_enable_irq
                 0x0000000008000648       0x1a ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
                 0x0000000008000648                nvic_enable_irq
-                0x0000000008000664                . = ALIGN (0x4)
  *fill*         0x0000000008000662        0x2 
+ .text.selfrel_offset31
+                0x0000000008000664       0x14 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x0000000008000678       0x60 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x00000000080006d8       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x0000000008000700       0xa8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x00000000080007a8       0x58 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.isra.0
+                0x0000000008000800        0xc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x000000000800080c        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x0000000008000810       0x40 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x0000000008000850       0xcc /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x000000000800091c       0x60 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x000000000800091c                __gnu_Unwind_RaiseException
+ .text.__gnu_Unwind_ForcedUnwind
+                0x000000000800097c       0x14 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x000000000800097c                __gnu_Unwind_ForcedUnwind
+ .text.__gnu_Unwind_Resume
+                0x0000000008000990       0x44 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000990                __gnu_Unwind_Resume
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000080009d4       0x18 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x00000000080009d4                __gnu_Unwind_Resume_or_Rethrow
+ .text._Unwind_VRS_Get
+                0x00000000080009ec       0x2c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x00000000080009ec                _Unwind_VRS_Get
+ .text._Unwind_GetGR
+                0x0000000008000a18       0x18 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x0000000008000a30       0x2c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000a30                _Unwind_VRS_Set
+ .text._Unwind_SetGR
+                0x0000000008000a5c       0x1c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x0000000008000a78       0x74 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000a78                __gnu_Unwind_Backtrace
+ .text.__gnu_unwind_pr_common
+                0x0000000008000aec      0x2d4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x0000000008000dc0        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000dc0                __aeabi_unwind_cpp_pr0
+ .text.__aeabi_unwind_cpp_pr1
+                0x0000000008000dc8        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000dc8                __aeabi_unwind_cpp_pr1
+ .text.__aeabi_unwind_cpp_pr2
+                0x0000000008000dd0        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000dd0                __aeabi_unwind_cpp_pr2
+ .text._Unwind_VRS_Pop
+                0x0000000008000dd8      0x284 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                0x0000000008000dd8                _Unwind_VRS_Pop
+ .text          0x000000000800105c      0x1ac /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                0x000000000800105c                __restore_core_regs
+                0x000000000800105c                restore_core_regs
+                0x0000000008001074                __gnu_Unwind_Restore_VFP
+                0x000000000800107c                __gnu_Unwind_Save_VFP
+                0x0000000008001084                __gnu_Unwind_Restore_VFP_D
+                0x000000000800108c                __gnu_Unwind_Save_VFP_D
+                0x0000000008001094                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x000000000800109c                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x00000000080010a4                __gnu_Unwind_Restore_WMMXD
+                0x00000000080010e8                __gnu_Unwind_Save_WMMXD
+                0x000000000800112c                __gnu_Unwind_Restore_WMMXC
+                0x0000000008001140                __gnu_Unwind_Save_WMMXC
+                0x0000000008001154                _Unwind_RaiseException
+                0x0000000008001154                ___Unwind_RaiseException
+                0x0000000008001178                ___Unwind_Resume
+                0x0000000008001178                _Unwind_Resume
+                0x000000000800119c                ___Unwind_Resume_or_Rethrow
+                0x000000000800119c                _Unwind_Resume_or_Rethrow
+                0x00000000080011c0                _Unwind_ForcedUnwind
+                0x00000000080011c0                ___Unwind_ForcedUnwind
+                0x00000000080011e4                _Unwind_Backtrace
+                0x00000000080011e4                ___Unwind_Backtrace
+ .text.next_unwind_byte
+                0x0000000008001208       0x38 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x0000000008001240      0x2c4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                0x0000000008001240                __gnu_unwind_execute
+ .text.abort    0x0000000008001504       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+                0x0000000008001504                abort
+ .text          0x0000000008001514       0xec /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                0x0000000008001514                memcpy
+ .text._raise_r
+                0x0000000008001600       0x5c /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+                0x0000000008001600                _raise_r
+ .text.raise    0x000000000800165c       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+                0x000000000800165c                raise
+ .text._kill_r  0x000000000800166c       0x28 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+                0x000000000800166c                _kill_r
+ .text._getpid_r
+                0x0000000008001694        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+                0x0000000008001694                _getpid_r
+ .text._getpid  0x0000000008001698       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                0x0000000008001698                _getpid
+ .text._kill    0x00000000080016a8       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                0x00000000080016a8                _kill
+ .text._exit    0x00000000080016b8        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                0x00000000080016b8                _exit
+                0x00000000080016bc                . = ALIGN (0x4)
  *(.rodata*)
-                0x0000000008000664                . = ALIGN (0x4)
+                0x00000000080016bc                . = ALIGN (0x4)
 
-.glue_7         0x0000000008000664        0x0
- .glue_7        0x0000000008000664        0x0 linker stubs
+.glue_7         0x00000000080016bc        0x0
+ .glue_7        0x00000000080016bc        0x0 linker stubs
 
-.glue_7t        0x0000000008000664        0x0
- .glue_7t       0x0000000008000664        0x0 linker stubs
+.glue_7t        0x00000000080016bc        0x0
+ .glue_7t       0x00000000080016bc        0x0 linker stubs
 
-.vfp11_veneer   0x0000000008000664        0x0
- .vfp11_veneer  0x0000000008000664        0x0 linker stubs
+.vfp11_veneer   0x00000000080016bc        0x0
+ .vfp11_veneer  0x00000000080016bc        0x0 linker stubs
 
-.v4_bx          0x0000000008000664        0x0
- .v4_bx         0x0000000008000664        0x0 linker stubs
+.v4_bx          0x00000000080016bc        0x0
+ .v4_bx         0x00000000080016bc        0x0 linker stubs
 
-.iplt           0x0000000008000664        0x0
- .iplt          0x0000000008000664        0x0 main.o
+.iplt           0x00000000080016bc        0x0
+ .iplt          0x00000000080016bc        0x0 main.o
 
-.rel.dyn        0x0000000008000664        0x0
- .rel.iplt      0x0000000008000664        0x0 main.o
-
-.preinit_array  0x0000000008000664        0x0
-                0x0000000008000664                . = ALIGN (0x4)
-                0x0000000008000664                __preinit_array_start = .
+.preinit_array  0x00000000080016bc        0x0
+                0x00000000080016bc                . = ALIGN (0x4)
+                0x00000000080016bc                __preinit_array_start = .
  *(.preinit_array)
-                0x0000000008000664                __preinit_array_end = .
+                0x00000000080016bc                __preinit_array_end = .
 
-.init_array     0x0000000008000664        0x0
-                0x0000000008000664                . = ALIGN (0x4)
-                0x0000000008000664                __init_array_start = .
+.init_array     0x00000000080016bc        0x0
+                0x00000000080016bc                . = ALIGN (0x4)
+                0x00000000080016bc                __init_array_start = .
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array)
-                0x0000000008000664                __init_array_end = .
+                0x00000000080016bc                __init_array_end = .
 
-.fini_array     0x0000000008000664        0x0
-                0x0000000008000664                . = ALIGN (0x4)
-                0x0000000008000664                __fini_array_start = .
+.fini_array     0x00000000080016bc        0x0
+                0x00000000080016bc                . = ALIGN (0x4)
+                0x00000000080016bc                __fini_array_start = .
  *(.fini_array)
  *(SORT_BY_NAME(.fini_array.*))
-                0x0000000008000664                __fini_array_end = .
+                0x00000000080016bc                __fini_array_end = .
 
 .ARM.extab
  *(.ARM.extab*)
 
-.ARM.exidx      0x0000000008000664        0x0
-                0x0000000008000664                __exidx_start = .
+.ARM.exidx      0x00000000080016bc       0x90
+                0x00000000080016bc                __exidx_start = .
  *(.ARM.exidx*)
-                0x0000000008000664                __exidx_end = .
-                0x0000000008000664                . = ALIGN (0x4)
-                0x0000000008000664                _etext = .
+ .ARM.exidx.text.tim2_isr
+                0x00000000080016bc        0x8 main.o
+ .ARM.exidx.text.startup.main
+                0x00000000080016c4        0x8 main.o
+ .ARM.exidx.text.selfrel_offset31
+                0x00000000080016cc        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.search_EIT_table
+                0x00000000080016cc        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x00000000080016cc        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.get_eit_entry
+                0x00000000080016cc        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x00000000080016d4        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.isra.0
+                0x00000000080016dc        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x00000000080016e4        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.unwind_phase2
+                0x00000000080016e4        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x00000000080016ec        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x00000000080016f4        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x00000000080016fc        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x0000000008001704        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x000000000800170c        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x0000000008001714        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_GetGR
+                0x0000000008001714        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x0000000008001714        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_SetGR
+                0x0000000008001714        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x0000000008001714        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x000000000800171c        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x0000000008001724        0x8 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x000000000800172c        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x000000000800172c        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x000000000800172c       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.next_unwind_byte
+                0x000000000800173c        0x0 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x000000000800173c       0x10 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                          0x8 (size before relaxing)
+                0x000000000800174c                __exidx_end = .
 
-.data           0x0000000020000000       0x10 load address 0x0000000008000664
+.rel.dyn        0x000000000800174c        0x0
+ .rel.iplt      0x000000000800174c        0x0 main.o
+                0x000000000800174c                . = ALIGN (0x4)
+                0x000000000800174c                _etext = .
+
+.data           0x0000000020000000      0x440 load address 0x000000000800174c
                 0x0000000020000000                _data = .
  *(.data*)
  .data.frequency_sequence
@@ -829,50 +1354,58 @@ END GROUP
  .data.rcc_apb2_frequency
                 0x000000002000000c        0x4 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
                 0x000000002000000c                rcc_apb2_frequency
-                0x0000000020000010                . = ALIGN (0x4)
-                0x0000000020000010                _edata = .
-                0x0000000008000664                _data_loadaddr = LOADADDR (.data)
+ .data._impure_ptr
+                0x0000000020000010        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x0000000020000010                _impure_ptr
+ *fill*         0x0000000020000014        0x4 
+ .data.impure_data
+                0x0000000020000018      0x428 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                0x0000000020000440                . = ALIGN (0x4)
+                0x0000000020000440                _edata = .
+                0x000000000800174c                _data_loadaddr = LOADADDR (.data)
 
-.igot.plt       0x0000000020000010        0x0 load address 0x0000000008000674
- .igot.plt      0x0000000020000010        0x0 main.o
+.igot.plt       0x0000000020000440        0x0 load address 0x0000000008001b8c
+ .igot.plt      0x0000000020000440        0x0 main.o
 
-.bss            0x0000000020000010        0x4 load address 0x0000000008000674
+.bss            0x0000000020000440        0x8 load address 0x0000000008001b8c
  *(.bss*)
  .bss.frequency_sel
-                0x0000000020000010        0x4 main.o
-                0x0000000020000010                frequency_sel
+                0x0000000020000440        0x4 main.o
+                0x0000000020000440                frequency_sel
  *(COMMON)
-                0x0000000020000014                . = ALIGN (0x4)
-                0x0000000020000014                _ebss = .
+ COMMON         0x0000000020000444        0x4 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+                0x0000000020000444                errno
+                0x0000000020000448                . = ALIGN (0x4)
+                0x0000000020000448                _ebss = .
 
 /DISCARD/
  *(.eh_frame)
-                0x0000000020000014                . = ALIGN (0x4)
-                0x0000000020000014                end = .
+                0x0000000020000448                . = ALIGN (0x4)
+                0x0000000020000448                end = .
                 0x0000000020005000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
 OUTPUT(flash.elf elf32-littlearm)
 
-.debug_info     0x0000000000000000     0x3934
- .debug_info    0x0000000000000000      0x828 main.o
- .debug_info    0x0000000000000828      0x1db ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_info    0x0000000000000a03     0x1160 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_info    0x0000000000001b63      0x22c ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
- .debug_info    0x0000000000001d8f     0x1008 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
- .debug_info    0x0000000000002d97      0x5f5 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
- .debug_info    0x000000000000338c       0xec ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
- .debug_info    0x0000000000003478      0x2a8 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_info    0x0000000000003720      0x214 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+.debug_info     0x0000000000000000     0x393c
+ .debug_info    0x0000000000000000      0x830 main.o
+ .debug_info    0x0000000000000830      0x1db ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_info    0x0000000000000a0b     0x1160 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_info    0x0000000000001b6b      0x22c ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_info    0x0000000000001d97     0x1008 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
+ .debug_info    0x0000000000002d9f      0x5f5 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_info    0x0000000000003394       0xec ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
+ .debug_info    0x0000000000003480      0x2a8 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_info    0x0000000000003728      0x214 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
-.debug_abbrev   0x0000000000000000      0xb19
- .debug_abbrev  0x0000000000000000      0x1d8 main.o
- .debug_abbrev  0x00000000000001d8       0xb7 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_abbrev  0x000000000000028f      0x285 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_abbrev  0x0000000000000514       0xf4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
- .debug_abbrev  0x0000000000000608      0x181 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
- .debug_abbrev  0x0000000000000789      0x139 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
- .debug_abbrev  0x00000000000008c2       0x8a ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
- .debug_abbrev  0x000000000000094c      0x127 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_abbrev  0x0000000000000a73       0xa6 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+.debug_abbrev   0x0000000000000000      0xb15
+ .debug_abbrev  0x0000000000000000      0x1d4 main.o
+ .debug_abbrev  0x00000000000001d4       0xb7 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_abbrev  0x000000000000028b      0x285 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_abbrev  0x0000000000000510       0xf4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_abbrev  0x0000000000000604      0x181 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
+ .debug_abbrev  0x0000000000000785      0x139 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_abbrev  0x00000000000008be       0x8a ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
+ .debug_abbrev  0x0000000000000948      0x127 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_abbrev  0x0000000000000a6f       0xa6 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
 .debug_loc      0x0000000000000000     0x118a
  .debug_loc     0x0000000000000000       0x88 main.o
@@ -916,70 +1449,75 @@ OUTPUT(flash.elf elf32-littlearm)
  .debug_ranges  0x0000000000000538       0x20 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
  .debug_ranges  0x0000000000000558       0x50 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
-.debug_macro    0x0000000000000000     0x49e6
- .debug_macro   0x0000000000000000      0x11b main.o
- .debug_macro   0x000000000000011b      0xa4e main.o
- .debug_macro   0x0000000000000b69       0x22 main.o
- .debug_macro   0x0000000000000b8b       0x56 main.o
- .debug_macro   0x0000000000000be1       0x51 main.o
- .debug_macro   0x0000000000000c32       0xef main.o
- .debug_macro   0x0000000000000d21       0x6a main.o
- .debug_macro   0x0000000000000d8b      0x1df main.o
- .debug_macro   0x0000000000000f6a       0x22 main.o
- .debug_macro   0x0000000000000f8c       0xfa main.o
- .debug_macro   0x0000000000001086       0x58 main.o
- .debug_macro   0x00000000000010de       0x64 main.o
- .debug_macro   0x0000000000001142      0x1a2 main.o
- .debug_macro   0x00000000000012e4      0x1ba main.o
- .debug_macro   0x000000000000149e      0x82c main.o
- .debug_macro   0x0000000000001cca       0x76 main.o
- .debug_macro   0x0000000000001d40      0xdfd main.o
- .debug_macro   0x0000000000002b3d      0xf96 main.o
- .debug_macro   0x0000000000003ad3       0xb9 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000003b8c      0x1b4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_macro   0x0000000000003d40       0xe8 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_macro   0x0000000000003e28       0x16 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_macro   0x0000000000003e3e       0xee ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_macro   0x0000000000003f2c       0x82 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_macro   0x0000000000003fae       0xb9 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
- .debug_macro   0x0000000000004067       0xcc ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
- .debug_macro   0x0000000000004133       0xcf ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
- .debug_macro   0x0000000000004202       0xc1 ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
- .debug_macro   0x00000000000042c3       0xd0 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_macro   0x0000000000004393      0x3a1 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_macro   0x0000000000004734       0x6a ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_macro   0x000000000000479e       0xb4 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
- .debug_macro   0x0000000000004852      0x194 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+.debug_macro    0x0000000000000000     0x56e9
+ .debug_macro   0x0000000000000000      0x120 main.o
+ .debug_macro   0x0000000000000120      0xb44 main.o
+ .debug_macro   0x0000000000000c64       0x1c main.o
+ .debug_macro   0x0000000000000c80       0x22 main.o
+ .debug_macro   0x0000000000000ca2       0x8e main.o
+ .debug_macro   0x0000000000000d30       0x51 main.o
+ .debug_macro   0x0000000000000d81       0xef main.o
+ .debug_macro   0x0000000000000e70       0x6a main.o
+ .debug_macro   0x0000000000000eda      0x1df main.o
+ .debug_macro   0x00000000000010b9       0x16 main.o
+ .debug_macro   0x00000000000010cf       0xfa main.o
+ .debug_macro   0x00000000000011c9       0x58 main.o
+ .debug_macro   0x0000000000001221       0x64 main.o
+ .debug_macro   0x0000000000001285      0x1a2 main.o
+ .debug_macro   0x0000000000001427      0x1ba main.o
+ .debug_macro   0x00000000000015e1      0x82c main.o
+ .debug_macro   0x0000000000001e0d       0x76 main.o
+ .debug_macro   0x0000000000001e83      0xdfd main.o
+ .debug_macro   0x0000000000002c80      0xf96 main.o
+ .debug_macro   0x0000000000003c16       0xb9 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000003ccf      0xa4e ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x000000000000471d       0x56 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000004773       0x22 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000004795       0xfa ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x000000000000488f      0x1b4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000004a43       0xe8 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000004b2b       0x16 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000004b41       0xee ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000004c2f       0x82 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000004cb1       0xb9 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000004d6a       0xcc ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
+ .debug_macro   0x0000000000004e36       0xcf ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000004f05       0xc1 ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
+ .debug_macro   0x0000000000004fc6       0xd0 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000005096      0x3a1 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000005437       0x6a ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x00000000000054a1       0xb4 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+ .debug_macro   0x0000000000005555      0x194 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
-.debug_line     0x0000000000000000     0x2ca1
- .debug_line    0x0000000000000000      0x44d main.o
- .debug_line    0x000000000000044d      0x3a4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
- .debug_line    0x00000000000007f1      0x79f ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
- .debug_line    0x0000000000000f90      0x3db ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
- .debug_line    0x000000000000136b      0x9bd ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
- .debug_line    0x0000000000001d28      0x40f ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
- .debug_line    0x0000000000002137      0x3cc ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
- .debug_line    0x0000000000002503      0x3f2 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
- .debug_line    0x00000000000028f5      0x3ac ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+.debug_line     0x0000000000000000     0x2ca3
+ .debug_line    0x0000000000000000      0x44f main.o
+ .debug_line    0x000000000000044f      0x3a4 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_line    0x00000000000007f3      0x79f ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_line    0x0000000000000f92      0x3db ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_line    0x000000000000136d      0x9bd ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
+ .debug_line    0x0000000000001d2a      0x40f ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_line    0x0000000000002139      0x3cc ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
+ .debug_line    0x0000000000002505      0x3f2 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_line    0x00000000000028f7      0x3ac ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
-.debug_str      0x0000000000000000    0x134e2
- .debug_str     0x0000000000000000     0xf578 main.o
-                                       0xf701 (size before relaxing)
- .debug_str     0x000000000000f578      0x175 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
+.debug_str      0x0000000000000000    0x13b84
+ .debug_str     0x0000000000000000     0xfa8b main.o
+                                       0xfc14 (size before relaxing)
+ .debug_str     0x000000000000fa8b      0x304 ./libopencm3//lib/libopencm3_stm32f1.a(gpio.o)
                                        0x842b (size before relaxing)
- .debug_str     0x000000000000f6ed      0xc8c ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_str     0x000000000000fd8f      0xc8c ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
                                        0x7d36 (size before relaxing)
- .debug_str     0x0000000000010379       0x65 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_str     0x0000000000010a1b       0x65 ./libopencm3//lib/libopencm3_stm32f1.a(gpio_common_all.o)
                                        0x841f (size before relaxing)
- .debug_str     0x00000000000103de      0x9b9 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
+ .debug_str     0x0000000000010a80      0x9b9 ./libopencm3//lib/libopencm3_stm32f1.a(timer_common_all.o)
                                        0xbc05 (size before relaxing)
- .debug_str     0x0000000000010d97      0x168 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_str     0x0000000000011439      0x168 ./libopencm3//lib/libopencm3_stm32f1.a(rcc_common_all.o)
                                        0x764c (size before relaxing)
- .debug_str     0x0000000000010eff       0x64 ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
+ .debug_str     0x00000000000115a1       0x64 ./libopencm3//lib/libopencm3_stm32f1.a(flash_common_all.o)
                                        0x540f (size before relaxing)
- .debug_str     0x0000000000010f63     0x1cff ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+ .debug_str     0x0000000000011605     0x1cff ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
                                        0x6573 (size before relaxing)
- .debug_str     0x0000000000012c62      0x880 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
+ .debug_str     0x0000000000013304      0x880 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
                                        0x5128 (size before relaxing)
 
 .comment        0x0000000000000000       0x71
@@ -995,7 +1533,7 @@ OUTPUT(flash.elf elf32-littlearm)
  .comment       0x0000000000000071       0x72 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
 .ARM.attributes
-                0x0000000000000000       0x33
+                0x0000000000000000       0x31
  .ARM.attributes
                 0x0000000000000000       0x33 main.o
  .ARM.attributes
@@ -1026,20 +1564,167 @@ OUTPUT(flash.elf elf32-littlearm)
  .debug_frame   0x0000000000000a0c       0x4c ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
  .debug_frame   0x0000000000000a58       0xa0 ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
 
+.stabstr        0x0000000000000000       0x76
+ .stabstr       0x0000000000000000       0x76 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+
 Cross Reference Table
 
 Symbol                                            File
+_Unwind_Backtrace                                 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+_Unwind_Complete                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+_Unwind_DeleteException                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+_Unwind_ForcedUnwind                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+_Unwind_GetCFA                                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+_Unwind_GetDataRelBase                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_GetLanguageSpecificData                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_GetRegionStart                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_GetTextRelBase                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_RaiseException                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+_Unwind_Resume                                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+_Unwind_Resume_or_Rethrow                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+_Unwind_VRS_Get                                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_VRS_Pop                                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+_Unwind_VRS_Set                                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+___Unwind_Backtrace                               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+___Unwind_ForcedUnwind                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+___Unwind_RaiseException                          /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+___Unwind_Resume                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+___Unwind_Resume_or_Rethrow                       /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__aeabi_unwind_cpp_pr0                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                                  main.o
+__aeabi_unwind_cpp_pr1                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+__aeabi_unwind_cpp_pr2                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__cxa_begin_cleanup                               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__cxa_call_unexpected                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__cxa_type_match                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__exidx_end                                       /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__exidx_start                                     /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
 __fini_array_end                                  ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 __fini_array_start                                ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+__gnu_Unwind_Backtrace                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__gnu_Unwind_Find_exidx                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_ForcedUnwind                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__gnu_Unwind_RaiseException                       /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__gnu_Unwind_Restore_VFP                          /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_VFP_D                        /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_VFP_D_16_to_31               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_WMMXC                        /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_WMMXD                        /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Resume                               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__gnu_Unwind_Resume_or_Rethrow                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__gnu_Unwind_Save_VFP                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_VFP_D                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_VFP_D_16_to_31                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_WMMXC                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_WMMXD                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_unwind_execute                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
+__gnu_unwind_frame                                /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
 __init_array_end                                  ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 __init_array_start                                ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+__lock___arc4random_mutex                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___atexit_recursive_mutex                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+__lock___sfp_recursive_mutex                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__lock___tz_mutex                                 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__malloc_av_                                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+__malloc_lock                                     /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+__malloc_max_sbrked_mem                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
 __preinit_array_end                               ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 __preinit_array_start                             ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+__restore_core_regs                               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+__retarget_lock_acquire                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_acquire_recursive                 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+__retarget_lock_close                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_close_recursive                   /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_init                              /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_init_recursive                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_release                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_release_recursive                 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mlock.o)
+__retarget_lock_try_acquire                       /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__retarget_lock_try_acquire_recursive             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-lock.o)
+__sigtramp                                        /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+__sigtramp_r                                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
 _data                                             ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 _data_loadaddr                                    ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 _ebss                                             ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 _edata                                            ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+_exit                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+_free_r                                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+_getpid                                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+_getpid_r                                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_global_impure_ptr                                /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+_impure_ptr                                       /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-impure.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_init_signal                                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_init_signal_r                                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_kill                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+_kill_r                                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_malloc_r                                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_malloc_trim_r                                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+_raise_r                                          /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+_reclaim_reent                                    /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+_sbrk                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+_sbrk_r                                           /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-freer.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-mallocr.o)
+_signal_r                                         /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
 _stack                                            ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+abort                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(pr-support.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
 adc1_2_isr                                        ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 adc3_isr                                          ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 blocking_handler                                  ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
@@ -1050,6 +1735,7 @@ can2_sce_isr                                      ./libopencm3//lib/libopencm3_s
 can2_tx_isr                                       ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 can_rx1_isr                                       ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 can_sce_isr                                       ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+cleanup_glue                                      /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
 cm3_assert_failed                                 ./libopencm3//lib/libopencm3_stm32f1.a(assert.o)
                                                   ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
 cm3_assert_failed_verbose                         ./libopencm3//lib/libopencm3_stm32f1.a(assert.o)
@@ -1066,6 +1752,12 @@ dma2_channel2_isr                                 ./libopencm3//lib/libopencm3_s
 dma2_channel3_isr                                 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 dma2_channel4_5_isr                               ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 dma2_channel5_isr                                 ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+end                                               /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(sbrk.o)
+errno                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-reent.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(kill.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(getpid.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-sbrkr.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signalr.o)
 eth_isr                                           ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 eth_wkup_isr                                      ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 exti0_isr                                         ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
@@ -1106,6 +1798,8 @@ i2c2_ev_isr                                       ./libopencm3//lib/libopencm3_s
 main                                              main.o
                                                   ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 mem_manage_handler                                ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+memcpy                                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
 nmi_handler                                       ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 null_handler                                      ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 nvic_clear_pending_irq                            ./libopencm3//lib/libopencm3_stm32f1.a(nvic.o)
@@ -1121,6 +1815,8 @@ nvic_set_priority                                 ./libopencm3//lib/libopencm3_s
 otg_fs_isr                                        ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 pend_sv_handler                                   ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 pvd_isr                                           ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+raise                                             /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-abort.o)
 rcc_ahb_frequency                                 ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
 rcc_apb1_frequency                                ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
                                                   main.o
@@ -1181,10 +1877,13 @@ rcc_set_usbpre                                    ./libopencm3//lib/libopencm3_s
 rcc_system_clock_source                           ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
 rcc_wait_for_osc_ready                            ./libopencm3//lib/libopencm3_stm32f1.a(rcc.o)
 reset_handler                                     ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
+restore_core_regs                                 /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(libunwind.o)
+                                                  /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a(unwind-arm.o)
 rtc_alarm_isr                                     ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 rtc_isr                                           ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 sdio_isr                                          ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
-setPWM                                            main.o
+setPWM(int, int)                                  main.o
+signal                                            /Users/assetmalik/opt/gnu-mcu-eclipse/arm-none-eabi-gcc/7.3.1-1.1-20180724-0637/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-signal.o)
 spi1_isr                                          ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 spi2_isr                                          ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)
 spi3_isr                                          ./libopencm3//lib/libopencm3_stm32f1.a(vector.o)

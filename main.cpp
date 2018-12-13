@@ -21,7 +21,6 @@
 #include <libopencm3/stm32/rcc.h>
 #include <libopencm3/stm32/gpio.h>
 #include <libopencm3/stm32/timer.h>
-#include "pwm.cpp"
 
 #ifndef ARRAY_LEN
 #define ARRAY_LEN(array) (sizeof((array))/sizeof((array)[0]))
