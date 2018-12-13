@@ -8,7 +8,9 @@ class PWM{
     private:
         int32 _gpioport;
         int16 _gpios;
-        int period, dutycycle;
+        int period, dutycycle, frequency_sel;
+        void tim2_isr(void);
+        static void tim_setup(void);
 };
 
 #endif
